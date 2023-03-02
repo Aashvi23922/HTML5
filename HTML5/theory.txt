@@ -1,0 +1,14 @@
+Question:1   What are the new tags aaded in HTML5 ?
+ANS:Articles,aside,audio,canvas,command,detalist,embed,figcaption,figure,footer,header,hgroup,keygen,mark,match,meter,nav,output,progress,rp,rt,ruby,section,source,summery,svg,time,track,video,wbr this are the new tags added tags in HTML5.
+
+
+Question:2   How to embed audio and video is a webpage?
+ANS:      By using audio tag & video tha we can embed audio and video is a webpage.
+
+
+Question:3   Semantic element in HTML5?
+ANS:      A semantic elemnts clearly describes its meaning to both the browser and the developer.for ex.,header,footer,section,form.table etc.clearly defines its content.
+
+
+Question:4   Canvas and svg tags?
+ANS:     Canvas tag is ued to draw graphics, via javascript. The canvas element is a container for graphics.scalable vector graphics useful for defining graphics such as boxes,circles,text.....etc. and is a language for describing 2d graphics.  
